@@ -1,6 +1,6 @@
 :root{
   --black: #09090c;
-  --gray:#a4b2bc;
+  --grey:#a4b2bc;
   --white: #fff;
   --background: rgba(137,171,245,0.37);
 }
@@ -15,6 +15,6 @@ html {
   box-sizing: border-box;
 }
 body{
-  background-color: var(--bacK);
+  background-color: var(--background);
   font-family: 'Poppins', sans-serif;
 }
